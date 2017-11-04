@@ -3,7 +3,7 @@ layout: post
 title: "Welcome!"
 tags:
   - "Getting Started"
-feature_image: "https://casper.ghost.org/v1.0.0/images/welcome.jpg"
+feature_image: "https://vignette1.wikia.nocookie.net/bleach-rp/images/c/ca/Beautiful-forest-43250.jpg/revision/latest?cb=20140220185227"
 ---
 
 # Hello reader!  
