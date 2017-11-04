@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Beginning of my Passion for Writing"
+title: "The Importance of Passion"
 tags:
   - "Welcome to me"
 feature_image: "http://www.masscommunicationtalk.com/wp-content/uploads/2016/02/writing-1.jpg"
 ---
+
+**Passion** Passion is one of the most vital components to anything--yes, _anything_-- in life at all. Without passion, all you really have is pointless and wasted talent.
 
 Ghost uses a language called **Markdown** to format text.
 
