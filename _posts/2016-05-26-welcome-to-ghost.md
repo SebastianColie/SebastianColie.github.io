@@ -3,7 +3,7 @@ layout: post
 title: "Welcome!"
 tags:
   - "Getting Started"
-feature_image: "https://vignette1.wikia.nocookie.net/bleach-rp/images/c/ca/Beautiful-forest-43250.jpg/revision/latest?cb=20140220185227"
+feature_image: "http://4.bp.blogspot.com/-TusJM42GQj0/VCmDeMQJ1SI/AAAAAAAABCI/8bQ24-GgS-4/s1600/Australie.jpg"
 ---
 
 # Hello reader!  
