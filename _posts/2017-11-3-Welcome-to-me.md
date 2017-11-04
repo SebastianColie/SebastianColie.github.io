@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Welcome!"
-tags:
-  - "Welcome to my blog"
+tags: "Welcome to me"
+
+-
+
+
 feature_image: "http://4.bp.blogspot.com/-TusJM42GQj0/VCmDeMQJ1SI/AAAAAAAABCI/8bQ24-GgS-4/s1600/Australie.jpg"
 ---
 
