@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Using the Ghost editor"
+title: "Beginning of my Passion for Writing"
 tags:
-  - "Getting Started"
-feature_image: "https://casper.ghost.org/v1.0.0/images/writing.jpg"
+  - "Welcome to me"
+feature_image: "http://www.masscommunicationtalk.com/wp-content/uploads/2016/02/writing-1.jpg"
 ---
 
 Ghost uses a language called **Markdown** to format text.
